@@ -1,0 +1,9 @@
+extends:
+  - metalab
+rules:
+  camelcase: 0
+  metalab/import/no-commonjs: 0
+env:
+  node: true
+globals:
+  __non_webpack_require__: true

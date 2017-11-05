@@ -1,0 +1,6 @@
+/*.js
+match/**/*
+internal/**/*
+lib/**/*
+**/dist/**
+node_modules
